@@ -20,10 +20,6 @@ Swift, che si interfaccia con le API esposte dal backend per:
 - gestire il profilo utente;
 - interagire con il flusso di aste/trattative (dettagli specifici nella
   documentazione di analisi, vedi sotto).
-> Nota: questa sezione va integrata con il set esatto di funzionalità
-> implementate — se vuoi, posso espanderla a partire dallo screenshot
-> dell'app o dall'elenco delle schermate/ViewController presenti nel
-> progetto Xcode.
  
 ---
  
